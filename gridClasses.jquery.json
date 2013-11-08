@@ -1,0 +1,32 @@
+{
+    "name": "gridClasses",
+    "title": "gridClasses",
+    "description": "A jQuery plugin that adds classes to items floated in a grid style. The following classes are added: topRow, bottomRow, firstInRow, lastInRow (the class names themselves may be altered).",
+    "keywords": [
+        "grid"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Delford Chaffin",
+        "url": "https://github.com/dchaffin"
+    },
+    "maintainers": [
+        {
+            "name": "Delford Chaffin",
+            "email": "dchaffin42@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.example.com/licenses/gpl.html"
+        }
+    ],
+    "bugs": "https://github.com/dchaffin/gridClasses/issues",
+    "homepage": "https://github.com/dchaffin/gridClasses",
+    "docs": "https://github.com/dchaffin/gridClasses",
+    "download": "https://github.com/dchaffin/gridClasses",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
