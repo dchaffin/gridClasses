@@ -5,3 +5,5 @@
 <h2>SAMPLE USAGE</h2>
 
 <p><code>$(<em>grid-item</em>).gridClasses();</code></p>
+
+<p>Here is a Fiddle with an example: <a href="http://jsfiddle.net/dchaffin/h96uB/7/" target="_blank">http://jsfiddle.net/dchaffin/h96uB/7/</a>.</p>
